@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting-program", "Countin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-case", "Switch-case\Switch-case.csproj", "{E5954AA3-0B95-4280-9E67-5250B644AC9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap-year", "Leap year\Leap-year.csproj", "{49D39B12-C467-47FB-B0B3-47047C0CD0AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E5954AA3-0B95-4280-9E67-5250B644AC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5954AA3-0B95-4280-9E67-5250B644AC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5954AA3-0B95-4280-9E67-5250B644AC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D39B12-C467-47FB-B0B3-47047C0CD0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D39B12-C467-47FB-B0B3-47047C0CD0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D39B12-C467-47FB-B0B3-47047C0CD0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D39B12-C467-47FB-B0B3-47047C0CD0AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
